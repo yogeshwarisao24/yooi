@@ -16,15 +16,15 @@
 
     <article>
         <div>
-            <p>Name: <span>Gaurav Sao</span></p>
+            <p>Name: <span>yogeshwari Sao</span></p>
             <p>Course: <span>B.Tech Computer Science</span></p>
-            <p>College: <span>PJL College of Engineering, Nagpur</span></p>
+            <p>College: <span>SB jain College of Engineering, Nagpur</span></p>
         </div>
 
         <div>
-            <p>Semester: <span>4th</span></p>
+            <p>Semester: <span>2nd</span></p>
             <p>Skills: <span>HTML, CSS, C Programming</span></p>
-            <p>Graduation Year: <span>2027</span></p>
+            <p>Graduation Year: <span>2029</span></p>
         </div>
     </article>
 </section>
